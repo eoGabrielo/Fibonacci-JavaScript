@@ -29,4 +29,4 @@ mostrado com a estrutura de decisão<br/>
 
 E acima de 2 termos, temos o cálculo que sera a soma dos 2 termos passados!<br/>
 
-No loop temos a condição contator menor que a quantidade Determos.<br/>
+No loop temos a condição contador menor que a quantidade de termos.<br/>
