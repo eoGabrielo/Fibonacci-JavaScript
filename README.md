@@ -1,6 +1,6 @@
 # Fibonacci-JavaScript <br/>
 
-Logica Fibonacci
+Logica Fibonacci<br/>
 A sequência de Fibonacci é uma sequência de números, onde o número 0 é o primeiro e o segundo termo é o 1<br/>
 e seus números seguintes são a soma do número atual com o antecessor.
 0,1, 1, 2, 3, 5, 8 ...
