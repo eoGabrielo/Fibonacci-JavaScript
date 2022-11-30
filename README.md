@@ -1,5 +1,16 @@
 # Fibonacci-JavaScript <br/>
 
+Logica Fibonacci
+A sequência de Fibonacci é uma sequência de números, onde o número 0 é o primeiro e o segundo termo é o 1<br/>
+e seus números seguintes são a soma do número atual com o antecessor.
+0,1, 1, 2, 3, 5, 8 ...
+
+0+1= 1<br/>
+1+1= 2<br/>
+2+1= 3<br/>
+3+2= 5<br/>
+...
+
 Na primeira linha temos a quantidade de termos que sera exibidos<br/>
 
 Declaramos 3 variáveis, que seria os termos para fazer cálculos para os próximos termos<br/>
@@ -25,7 +36,9 @@ Como em Fibonacci os 2 primeiros termos são 0 e 1, colocamos para printalos aut
 porem ser a quantidade de termos escolhido for 0, 1 ou 2 ele tem um retorno fixo sem cálculo nem um,<br/>
 mostrado com a estrutura de decisão<br/>
 
-0 termos = "Não tem termos" 1 termos = 0 2 termos = 0 1<br/>
+0 termos = "Não tem termos"<br/> 
+1 termos = 0<br/> 
+2 termos = 0 1<br/>
 
 E acima de 2 termos, temos o cálculo que sera a soma dos 2 termos passados!<br/>
 
